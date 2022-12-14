@@ -1,0 +1,126 @@
+* {
+    margin: 0;
+    font-family: Helvetica, Arial;
+    color:#CECECE;
+
+}
+
+body {
+   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#a90329+0,8f0222+44,6d0019+100;Brown+Red+3D */
+background: #a90329; /* Old browsers */
+background: -moz-linear-gradient(-45deg,  #a90329 0%, #8f0222 44%, #6d0019 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg,  #a90329 0%,#8f0222 44%,#6d0019 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg,  #a90329 0%,#8f0222 44%,#6d0019 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+}
+
+html {
+    height: 100%;
+}
+
+header {
+    display: block;
+    height: 50px;
+    background-color: #1e1e1e;
+    margin: auto;
+    width: 80%;
+    margin-bottom: 20px;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+
+}
+
+main {
+    background-color: #1e1e1e;
+    margin: auto;
+    width: 80%;
+    border-radius: 5px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#mainComic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    overflow: hidden;
+    justify-content: center;
+    
+
+
+}
+
+footer {
+    display: block;
+    height: 30px;
+    background-color: #1e1e1e;
+    margin: auto;
+    width: 80%;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+#navComic {
+    display: block;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    margin-left: -50px;
+}
+
+
+#first {
+    display: inline-block;
+    list-style: none;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    border: 1px white solid;
+    border-radius: 5px;
+}
+
+#previous {
+    display: inline-block;
+    list-style: none;
+    padding: 10px;
+    border: 1px white solid;
+    border-radius: 5px;
+}
+
+#random {
+    display: inline-block;
+    list-style: none;
+    padding: 10px;
+    border: 1px white solid;
+    border-radius: 5px;
+}
+
+#next {
+    display: inline-block;
+    list-style: none;
+    padding: 10px;
+    border: 1px white solid;
+    border-radius: 5px;
+}
+
+#last {
+    display: inline-block;
+    list-style: none;
+    padding: 10px;
+    border: 1px white solid;
+    border-radius: 5px;
+}
