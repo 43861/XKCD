@@ -2,6 +2,7 @@
     margin: 0;
     font-family: Helvetica, Arial;
     color:#CECECE;
+    list-style: none;
 
 }
 
@@ -32,6 +33,7 @@ header {
     padding-right: 10px;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
+    overflow: hidden;
 
 }
 
@@ -54,8 +56,6 @@ main {
     overflow: hidden;
     justify-content: center;
     
-
-
 }
 
 footer {
